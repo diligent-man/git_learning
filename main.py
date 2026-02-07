@@ -7,6 +7,7 @@ def main() -> None:
     print(add(1, 2))
     print("hi")
     print(add(2, 3))
+    print(add(1, 2))
     return None
 
 
